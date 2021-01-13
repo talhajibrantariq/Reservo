@@ -6,3 +6,5 @@
 
 -Simply clone or download this repository and run "npm install" to install dependancies.
 - Start the application. 
+
+-For demonstration, go to the demoimagesandvideo folder
